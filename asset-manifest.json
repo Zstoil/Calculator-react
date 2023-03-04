@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculator-react/static/css/main.133189ba.css",
+    "main.js": "/Calculator-react/static/js/main.b1d1ebf6.js",
+    "static/media/adrian-infernus-GLf7bAwCdYg-unsplash.jpg": "/Calculator-react/static/media/adrian-infernus-GLf7bAwCdYg-unsplash.e6fed76344ed3628417a.jpg",
+    "index.html": "/Calculator-react/index.html",
+    "main.133189ba.css.map": "/Calculator-react/static/css/main.133189ba.css.map",
+    "main.b1d1ebf6.js.map": "/Calculator-react/static/js/main.b1d1ebf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133189ba.css",
+    "static/js/main.b1d1ebf6.js"
+  ]
+}
